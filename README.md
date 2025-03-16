@@ -105,7 +105,7 @@ To ensure clarity, the dashboard was divided into **four sections**:
 
 ## 📸 Project Screenshots
 
-*(Attach key visuals showcasing the dashboard, EDA findings, and data cleaning process.)*
+![image](https://github.com/user-attachments/assets/e2c9ce8b-b20d-4e26-93ac-b03274990ad5)
 
 ---
 
